@@ -3,7 +3,7 @@
 + Needed: shiny package
 
 ```
-install.packages("shiny")
+> install.packages("shiny")
 ```
 
 + Then load the server in a R session:
